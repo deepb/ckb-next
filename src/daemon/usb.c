@@ -73,7 +73,9 @@ ushort models[N_MODELS] = {
     P_HARPOON,
     P_KATAR,
     P_DARK_CORE,
+    P_DARK_CORE_WL,
     P_DARK_CORE_SE,
+    P_DARK_CORE_SE_WL,
     // Mousepads (1)
     P_POLARIS,
     // Headset stands (1)
